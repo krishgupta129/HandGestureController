@@ -158,12 +158,12 @@ The uploaded `requirements.txt` pins package versions. Install from that file to
 
 ## License
 
-No license was included in the supplied files. Add a `LICENSE` file before presenting the repository as open source. The MIT License is one common permissive option if it matches your intentions.
+MIT License
 
 ## Author
 
 **Krish Gupta**
 
----
 
-If you use or adapt this project, please credit the repository once it is published.
+
+
